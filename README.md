@@ -2,7 +2,7 @@
 ## Ссылки: 
 Первый ноутбук: https://colab.research.google.com/drive/11C07kCx459hvsDMGeSefUxatBfv0OYfh
 
-Второй ноутбук:
+Второй ноутбук: https://colab.research.google.com/drive/1QZDv5Njc-Vf5dV3oPu0JrRBEAroeij3k
 ## Статистика:
 Всего скаффодов: 69
 
